@@ -1,0 +1,44 @@
+.header {
+    font-size: 40px;
+    color: blueviolet;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.fieldContainer {
+    margin: auto;
+    margin-bottom: 15px;
+    width: 40%;
+    padding: 10px 0px 10px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title {
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+.textBox {
+    width: 75%;
+    height: 30px;
+    border-radius: 5px;
+    border: 0.5px solid gray;
+    padding: 5px 10px 5px 10px;
+}
+body{
+    background-color: darkcyan;
+}
+.registerbtn {
+    background-color:blueviolet;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: 500px;
+    cursor: pointer;
+    width: 10%;
+    opacity: 0.9;
+    text-align: center;
+}
+  
